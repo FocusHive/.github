@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Go to the Repo: .github & then go to this file to edit me /profile/README.md
+
+Would appreciate the help, thanks!
 <!--
 
 **Here are some ideas to get you started:**
