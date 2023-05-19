@@ -1,5 +1,11 @@
-## Hi there 👋
+# Focus Hive Inc
 
+### The Focus Suite
+- Focus Chefs
+- Focus Apps
+- Focus Pass
+
+### Want to Help?
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
 
 Would appreciate the help, thanks!
