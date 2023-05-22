@@ -1,9 +1,24 @@
 # Focus Hive Inc
+Focus Hive Inc provides a robust platform where your managers can shape policies and procedures to increase efficiency, grow & scale, and streamline goals with our unique approach known as ORBITAL Mission Control™. We bring a new approach to project management with enterprise tools and creative implementations to cultivate company culture.
+<h1 align="center">
+  <br>
+  <img src="https://github.com/TaoFruit/focushive/blob/gh-pages/images/logos/logo_dark.png" alt="The Focus Hive" width="400">
+</h1>
+We are a renowned provider of productivity tools and strategies. Our collaboration with Global Enterprise, a leading consulting firm specializing in enterprise solutions and strategies allows us to deliver exceptional consulting services in Agile methodologies and Future of Work strategies to organizations of all sizes. We offer a comprehensive suite of solutions that empower businesses to optimize their operations and embrace the future of work.
 
 ### The Focus Suite
 - Focus Chefs
-- Focus Apps
+  - Ringo (Messaging Operator)
+  - Marisa (Executive Assistant and Administration)
+  - Emili (Engineering Manager Intellectual & Logical Interactive Assistant)
+  - Hira (Human Intelligence Resource Assistant)
+  - Zee (Business Expert)
+  - Cody (Lead Developer Assistant)
+  - Banksy (Artist)
+  - A.S.M.A. (Automated Social Media Assistant)
+- Focus Apps 
 - Focus Pass
+  - Remote Staff Productivity and Tracking Tool
 
 ### Want to Help?
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
