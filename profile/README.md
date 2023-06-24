@@ -19,7 +19,10 @@ We are a renowned provider of productivity tools and strategies. Our collaborati
 - Focus Apps 
 - Focus Pass
   - Remote Staff Productivity and Tracking Tool
-
+- Focus Jam
+  - Digital Meeting Platform for Distributed Team Communications 
+- Focus Cell
+  - Project Management and Team Collaboration for Small Teams
 ### Want to Help?
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
 
