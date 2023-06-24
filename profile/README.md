@@ -7,33 +7,22 @@ Focus Hive Inc provides a robust platform where your managers can shape policies
 We are a renowned provider of productivity tools and strategies. Our collaboration with Global Enterprise, a leading consulting firm specializing in enterprise solutions and strategies allows us to deliver exceptional consulting services in Agile methodologies and Future of Work strategies to organizations of all sizes. We offer a comprehensive suite of solutions that empower businesses to optimize their operations and embrace the future of work.
 
 ### The Focus Suite
-- Focus Chefs
-  - Ringo (Messaging Operator)
+- [Focus Chef](https://focuschef.com/) - [Lab](https://github.com/FocusChef)
+  - Ringo (Call & Messaging Operator)
   - Marisa (Executive Assistant and Administration)
   - Emili (Engineering Manager Intellectual & Logical Interactive Assistant)
   - Hira (Human Intelligence Resource Assistant)
-  - Zee (Business Expert)
-  - Cody (Lead Developer Assistant)
+  - Zee (Business & Legal Consultant)
+  - Cody (Code Developer AI)
   - Banksy (Artist)
   - A.S.M.A. (Automated Social Media Assistant)
-- Focus Apps 
-- Focus Pass
+- [Focus Pass](https://focuspass.com/) - [Lab](https://github.com/FocusHive/FocusPass)
   - Remote Staff Productivity and Tracking Tool
-- Focus Jam
+- [Focus Jam](https://focusjam.com/) - [Lab](https://github.com/FocusHive/FocusJam)
   - Digital Meeting Platform for Distributed Team Communications 
-- Focus Cell
+- [Focus Cell](https://focuscell.org/) - [Lab](https://github.com/FocusCell)
   - Project Management and Team Collaboration for Small Teams
-### Want to Help?
+    
+## XpressLab
+Go to any lab above to contribute.  Express yourself using our partnership with XpressLab to give you experiential learning while also contributing to live projects!
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
-
-Would appreciate the help, thanks!
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
