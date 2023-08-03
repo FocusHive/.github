@@ -7,7 +7,7 @@ Focus Hive Inc provides a robust platform where your managers can shape policies
 We are a renowned provider of productivity tools and strategies. Our collaboration with Global Enterprise, a leading consulting firm specializing in enterprise solutions and strategies allows us to deliver exceptional consulting services in Agile methodologies and Future of Work strategies to organizations of all sizes. We offer a comprehensive suite of solutions that empower businesses to optimize their operations and embrace the future of work.
 
 ### The Focus Suite
-- [Focus Chef](https://focuschef.com/) - [Lab](https://github.com/FocusChef)
+- [Focus Chef](https://focuschef.com/) - [Xpress Lab](https://github.com/FocusChef)
   - Ringo (Call & Messaging Operator)
   - Marisa (Executive Assistant and Administration)
   - Emili (Engineering Manager Intellectual & Logical Interactive Assistant)
@@ -16,11 +16,11 @@ We are a renowned provider of productivity tools and strategies. Our collaborati
   - Cody (Code Developer AI)
   - Banksy (Artist)
   - A.S.M.A. (Automated Social Media Assistant)
-- [Focus Pass](https://focuspass.com/) - [Lab](https://github.com/FocusHive/FocusPass)
+- [Focus Pass](https://focuspass.com/) - [Xpress Lab](https://github.com/FocusHive/FocusPass)
   - Remote Staff Productivity and Tracking Tool
-- [Focus Jam](https://focusjam.com/) - [Lab](https://github.com/FocusHive/FocusJam)
+- [Focus Jam](https://focusjam.com/) - [Xpress Lab](https://github.com/FocusHive/FocusJam)
   - Digital Meeting Platform for Distributed Team Communications 
-- [Focus Cell](https://focuscell.org/) - [Lab](https://github.com/FocusCell)
+- [Focus Cell](https://focuscell.org/) - [Xpress Lab](https://github.com/FocusCell)
   - Project Management and Team Collaboration for Small Teams
 - Focus Shift
   - Time Management System
