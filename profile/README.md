@@ -4,7 +4,7 @@
 </h1>
 We are a renowned provider of productivity tools and strategies. Our collaboration with Global Enterprise, a leading consulting firm specializing in enterprise solutions and strategies allows us to deliver exceptional consulting services in Agile methodologies and Future of Work strategies to organizations of all sizes. We offer a comprehensive suite of solutions that empower businesses to optimize their operations and embrace the future of work.
 
-### The Focus Suite
+# Focus Suite
 - [Focus Chef](https://focuschef.com/) - [Xpress Lab](https://github.com/FocusChef)
   - Ringo (Call & Messaging Operator)
   - Marisa (Executive Assistant and Administration)
