@@ -24,11 +24,24 @@ We are a renowned provider of productivity tools and strategies. Our collaborati
   - Time Management System
 
 ## [ANDROID Ops](https://androidops.org) 
-    We conduct ANDROID Ops on all projects we work on.
+We conduct [ANDROID Ops](https://github.com/WorldEnterpriseGroup/.github/blob/gh-pages/Frameworks/ANDROID.md) on all projects we work on.
     
 ## [Xpress Lab](https://xpresslab.org)
 Go to any lab above to contribute.  Express yourself using our partnership with XpressLab to give you experiential learning while also contributing to live projects!
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
+
+---
+### Run Focus Pass App:
+To run the Focus Pass App, make sure you're using Windows 11, you have a Focus Pass account, and your OneDrive is running.  
+
+Inside MS Teams, go to the Focus Hive Teams after given access. Click "App" > click "Files" > click "Sync". This folder should sync into your OneDrive.
+Go to your Windows explorer and find the **Focus Hive - App** Folder and double click the "focuspass" icon. There are instructions to follow in the platform that pops-up.
+
+Pressing 1 gets you started to an hour of SILK Training that you can do in your total work shift per day. This can be used to get badges or certifications or learn new skills in general.
+Pressing 2 is where you're going to pick a GitHub Issue assigned to you by your Manager. There are instructions to follow in the platform. This is what you pick the first time to provide a link to an issue you're working on.
+Pressing 3 starts the screen capture processes.
+
+Focus Pass also has instructions of when you start or end your break, and when to end your shift for the day.
 
 
 #### Who We Are
