@@ -31,7 +31,7 @@ Go to any lab above to contribute.  Express yourself using our partnership with 
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
 
 ---
-### **Run Focus Pass App**
+#### **Run Focus Pass App:**
 To run the Focus Pass App, make sure you're using Windows 11, you have a Focus Pass account, and your OneDrive is running.  
 
 Inside MS Teams, go to the Focus Hive Teams after given access. Click "App" > click "Files" > click "Sync". This folder should sync into your OneDrive.
@@ -44,9 +44,17 @@ _Remember:_
 - Pressing 2 is where you're going to pick a GitHub Issue assigned to you by your Manager. There are instructions to follow in the platform. This is what you pick the first time to provide a link to an issue you're working on.
 - Pressing 3 starts the screen capture processes.
 
-### **Hosting Focus Jams:**
+#### **Hosting Focus Jams:**
 Follow the [Step-by-Step Guide](https://github.com/FocusHive/FocusJam/blob/main/philosophy.md#:~:text=Step%2Dby%2DStep%20Guide%20to%20Effectively%20Participate%20in%20a%20Focus%20Jam) to Effectively Participate in Focus Jam.
 
+#### **Setting Focus Shifts:**
+Employees are to use the Focus App™ at all times during their work. The concept of Focus Shifts™ is that you may choose your own work hours in 4-hour shifts where you make a substantial and impactful “shift” or alignment to a project in that timespan by assisting the STAR to which you are assigned. You may choose any 4-hour shift approved by your manager from the previous pay cycle. Then, you are required to take a 1-hour break in-between each Focus Shift™. Full-time Employees will be required to have two Focus Shifts™ per day for a total of 10 Focus Shifts™ per week minimum.
+
+We also have Flexy-Time wherein you choose the time for your two shifts that works with your availability. Although, we recommend that you choose hours where you can collaborate and communicate with team lead and other members.
+
+#### Collaborate in a Focus Cell:
+If you are passionate about collaboration, continuous learning, and pushing the boundaries of innovation, we invite you to join a Focus Cell. As a member, you will have the opportunity to contribute your skills, ideas, and energy to a dynamic and supportive community. Together, we will shape the future and make a difference.
+
 ---
-#### Who We Are
+### Who We Are
 _Focus Hive Inc provides a robust platform where your managers can shape policies and procedures to increase efficiency, grow & scale, and streamline goals with our unique approach known as ORBITAL Mission Control™. We bring a new approach to project management with enterprise tools and creative implementations to cultivate company culture._
