@@ -52,7 +52,7 @@ Employees are to use the Focus App™ at all times during their work. The concep
 
 We also have Flexy-Time wherein you choose the time for your two shifts that works with your availability. Although, we recommend that you choose hours where you can collaborate and communicate with team lead and other members.
 
-#### Collaborate in a Focus Cell:
+#### **Collaborate in a Focus Cell:**
 If you are passionate about collaboration, continuous learning, and pushing the boundaries of innovation, we invite you to join a Focus Cell. As a member, you will have the opportunity to contribute your skills, ideas, and energy to a dynamic and supportive community. Together, we will shape the future and make a difference.
 
 ---
