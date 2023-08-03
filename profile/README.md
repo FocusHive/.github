@@ -22,7 +22,12 @@ We are a renowned provider of productivity tools and strategies. Our collaborati
   - Digital Meeting Platform for Distributed Team Communications 
 - [Focus Cell](https://focuscell.org/) - [Lab](https://github.com/FocusCell)
   - Project Management and Team Collaboration for Small Teams
+- Focus Shift
+  - Time Management System
+
+## [ANDROID Ops](https://androidops.org) 
+    We conduct ANDROID Ops on all projects we work on.
     
-## XpressLab
+## [Xpress Lab](https://xpresslab.org)
 Go to any lab above to contribute.  Express yourself using our partnership with XpressLab to give you experiential learning while also contributing to live projects!
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
