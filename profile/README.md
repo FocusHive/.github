@@ -1,4 +1,3 @@
-# Focus Hive Inc
 <h1 align="center">
   <br>
   <img src="https://github.com/TaoFruit/focushive/blob/gh-pages/images/logos/logo_dark.png" alt="The Focus Hive" width="400">
