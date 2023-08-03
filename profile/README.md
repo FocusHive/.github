@@ -1,5 +1,4 @@
 # Focus Hive Inc
-Focus Hive Inc provides a robust platform where your managers can shape policies and procedures to increase efficiency, grow & scale, and streamline goals with our unique approach known as ORBITAL Mission Control™. We bring a new approach to project management with enterprise tools and creative implementations to cultivate company culture.
 <h1 align="center">
   <br>
   <img src="https://github.com/TaoFruit/focushive/blob/gh-pages/images/logos/logo_dark.png" alt="The Focus Hive" width="400">
@@ -31,3 +30,7 @@ We are a renowned provider of productivity tools and strategies. Our collaborati
 ## [Xpress Lab](https://xpresslab.org)
 Go to any lab above to contribute.  Express yourself using our partnership with XpressLab to give you experiential learning while also contributing to live projects!
 Go to the Repo: .github & then go to this file to edit me /profile/README.md
+
+
+#### Who We Are
+_Focus Hive Inc provides a robust platform where your managers can shape policies and procedures to increase efficiency, grow & scale, and streamline goals with our unique approach known as ORBITAL Mission Control™. We bring a new approach to project management with enterprise tools and creative implementations to cultivate company culture._
