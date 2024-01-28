@@ -4,10 +4,10 @@
 </h1>
 <p align="center">
   Empowering businesses with cutting-edge productivity tools &amp; strategies.<br>
-  <a href="#focus-suite">Focus Suite</a> •
-  <a href="#android-ops">ANDROID Ops</a> •
-  <a href="#xpress-lab">Xpress Lab</a> •
-  <a href="#who-we-are">Who We Are</a>
+  <a href="#%EF%B8%8F-focus-suite">Focus Suite</a> •
+  <a href="#-android-ops">ANDROID Ops</a> •
+  <a href="#-xpress-lab">Xpress Lab</a> •
+  <a href="#-who-we-are">Who We Are</a>
 </p>
 
 ## 🚀 Who We Are
