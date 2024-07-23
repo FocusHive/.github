@@ -17,7 +17,7 @@ With a strong focus on distributed team tooling, we specialize in making HCM mor
 ## 🛠️ Focus Suite
 - [📖 Focus Guide](https://focusguide.org) - AI-Driven Consulting for Organizational Strategy and Performance Management
 - [👩‍🍳 Focus Chef](https://focuschef.org) - AI Personas for Shaping Policies and Procedures
-- [🎤 Focus Jam](https://focusjam.org) - Tools for Meetings, Collaborations, and Communications
+- [🎤 Focus Jam](https://focusjam.org) - Tools, Policies, and Culture for Meetings, Collaborations, and Communications
 - [🐝 Focus Cell](https://focuscell.org) - Project, Organization, Swarm Intelligence, and Team Management
 - [🛤️ Focus Path](https://focuspath.org) - Projects and Job Board for Careers and Solutions
 - [📈 Focus Track](https://focustrack.org) - Advanced AI-Driven Monitoring for Performance and Productivity
