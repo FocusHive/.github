@@ -21,7 +21,7 @@ _Focus Hive Inc provides a robust platform where managers can shape policies and
 - [🐝 Focus Cell](https://focuscell.org) - Project, Organization, Swarm Intelligence, and Team Management
 - [🛤️ Focus Path](https://focuspath.org) - Projects and Job Board for Careers and Solutions
 - [📈 Focus Track](https://focustrack.org) - Advanced AI-Driven Project Monitoring (Screen, Webcam, Audio/Video, Project Cadence, and Time Focusing)
-- [🔑 Focus Pass](https://focuspass.org) - Authentication and Membership Access
+- [🔑 Focus Pass](https://focuspass.org) - Authentication, Device Management, User Profiles, Membership Levels, Subscription Management
 - [📱 Focus Apps](https://focusapps.org) - Bundled Software & Tools for Productivity
 - [🎉 Focus Buzz](https://focusbuzz.org) - Activities, Culture, Events, Health, and Wellness
 - [💼 Focus Wallet](https://focuswallet.org) - Accounting, Finances, DeFi Focus Coin, and Budgeting
